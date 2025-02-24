@@ -1,3 +1,9 @@
-## About Slowchop Studios
+# Slowchop Studios
 
-We are an indie game development team, currently working on **Grabby Aliens**. See https://grabby.gg for Discord invites and social links.
+We are a small indie game development team based in Australia and Colombia, developing games with the **Bevy** engine.
+
+## Grabby Aliens
+
+Our current focus is **Grabby Aliens: Kronos**, a **sci-fi colony and physics game**.  
+
+🔗 [Visit grabby.gg for more details and socials.](https://grabby.gg)
